@@ -46,7 +46,7 @@ public class MainMenu : MonoBehaviour
 
     public void ProjectSource()
     {
-        Application.OpenURL("null");    //replace with project URL later
+        Application.OpenURL("https://github.com/Arylos07/Countdown");
     }
 
     IEnumerator Play()

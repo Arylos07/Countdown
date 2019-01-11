@@ -22,7 +22,7 @@ public class Splash : MonoBehaviour
 
     IEnumerator Load()
     {
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSeconds(8);
         text.SetActive(false);
         yield return new WaitForSeconds(2);
         SceneManager.LoadScene("MainMenu");

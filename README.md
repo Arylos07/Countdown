@@ -19,4 +19,4 @@ Countdown game board made by [Eric Renno](http://www.ericrenno.com/free-photosho
 A built version of the project is available in the "Build" folder while the source is available under the "Project" folder.
 
 # Revisit
-For a revisit to this project for leaderboards and multiplayer, reach out to The Weekend Dev on Reddit at [r/TheWeekendDev](https://www.reddit.com/r/theweekenddev/ "The Weekend Dev subreddit")
+For a revisit to this project for leaderboards, data saving, custom gamemodes, and multiplayer, reach out to The Weekend Dev on Reddit at [r/TheWeekendDev](https://www.reddit.com/r/theweekenddev/ "The Weekend Dev subreddit")
